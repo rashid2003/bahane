@@ -1,23 +1,23 @@
 Actually, that's a feature
+ولی باور کن این یه فیچره
+
+
 Don't worry, that value is only wrong half of the time
 Even though it doesn't work, how does it feel?
-Everything looks fine my end
-How is that possible?
-I broke that deliberately to do some testing
+روی سیستم من کار میکنه
+چطور ممکنه؟
+من آن را عمداً برای انجام آزمایش انجام دادم
 I can have a look but there's a lot of if statements in that code!
-I can't make that a priority right now
-I can't test everything
-I couldn't find any examples of how that can be done anywhere else in the project
+در حال حاضر نمی توانم آن را در اولویت قرار دهم
+نمیتونم همه چیز رو چک کنم که
+couldn't find any examples of how that can be done anywhere else in the project
 I couldn't find any examples of how that can be done anywhere online
-I couldn't find any library that can even do that
-I did a quick fix last time but it broke when we rebooted
-I didn't anticipate that I would make any errors
-I didn't create that part of the program
-I didn't receive a ticket for it
-I forgot to commit the code that fixes that
-I had to do the project backwards as people demanded results out of order
-I have never seen that before in my life
-I haven't been able to reproduce that
+هیچ کتابخانه ای پیدا نکردم که بتونه این کار رو انجام بده
+دفعه قبل یک راه حل سریع انجام داد اما با راه اندازی مجدد آن خراب شد
+توقع نداشتم کار نده
+من روی این بخش کار نکردم
+فراموش کردم آخرین تغییرات رو پوش کنم، مطمين این مشکل حل شده
+هرگز چنین چیزی ندیده بودم
 I haven't had any experience with that before
 I haven't had the chance to run that code yet
 I haven't touched that code in weeks
